@@ -8,4 +8,4 @@
  
 </div>
  
-[![readme](teste)](teste testes)
+[![readme]([teste](https://github-readme-stats.vercel.app/api/pin/?username=guicarbonesi&repo=guicarbonesi&theme=react))]
