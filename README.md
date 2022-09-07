@@ -1,11 +1,11 @@
 <h1> Hi! My name is Guilherme. </h1>
 
 <div style="display: inline_block"><br>
+  target="_blank">
   <img align="center" alt="Elmo-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"                   target="_blank">
   <img align="center" alt="Elmo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"           target="_blank">
   <img align="center" alt="Elmo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"                   target="_blank">
-  <img align="center" alt="Elmo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"               target="_blank">
-  <img align="right" alt="Elmo-pic" height="140" style="border-radius:50px;" 
+  <img align="center" alt="Elmo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"                 target="_blank">
 </div>
   
 </div>
