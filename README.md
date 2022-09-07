@@ -9,3 +9,5 @@
 </div>
  
 [![readme]([teste](https://github-readme-stats.vercel.app/api/pin/?username=guicarbonesi&repo=guicarbonesi&theme=react))]
+
+<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/guicarbonesi/count.svg" /></p>
