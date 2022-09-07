@@ -27,4 +27,3 @@
  
 </div>
  
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=guicarbonesi&repo=guicarbonesi&theme=react)](https://github.com/guicarbonesi/guicarbonesi)
