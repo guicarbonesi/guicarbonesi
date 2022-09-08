@@ -1,4 +1,6 @@
-<h1> Seja, bem vindo! </h1>
+<div align="center">
+<h2> Seja, bem vindo!</h2>
+</div>
 </div>
 </br>
 <div align="center">
