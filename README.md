@@ -11,7 +11,7 @@
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
-    <img align="left" height="300" alt="coding-time" src="code.gif">
+    <img align="left" height="280" alt="coding-time" src="code.gif">
     <h1 align="center">Tecnologias que uso 🚀</h1>
     
 <div style="display: inline_block">
