@@ -12,7 +12,7 @@
 <div  align="center"> 
   <div style="display: inline_block"><br>
     <img align="left" height="300" alt="coding-time" src="code.gif">
-    <h1 align="center">Tecnologias que uso 🚀</h1>
+## Tecnologias que uso 🚀
     
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
