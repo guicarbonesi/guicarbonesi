@@ -1,5 +1,5 @@
 <div align="center">
-
+  <div style="display: inline_block"><br>
     <h1 align="center">Seja, bem vindo! 🖐️</h1>
 
 [![linktr](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/guicarbonesi)
@@ -23,7 +23,7 @@
   <img align="center" alt="ts" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
    </div>
 </div><br/>
-
+  <div style="display: inline_block"><br>
     <h1 align="center">Tecnologias Cloud ☁</h1>
 
 <div style="display: inline_block">
