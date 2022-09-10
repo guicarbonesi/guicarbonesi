@@ -1,4 +1,5 @@
 <div align="center">
+  <div style="display: inline_block"><br>
 
 ## Seja, bem vindo! 🖐️
 
@@ -9,8 +10,6 @@
 
 ![Gui GitHub stats](https://github-readme-stats.vercel.app/api?username=guicarbonesi&show_icons=true&theme=dracula&count_private=true)
 
-<div  align="center"> 
-  <div style="display: inline_block"><br>
     <img align="left" height="250" alt="coding-time" src="code.gif">
     <h1 align="center">Tecnologias que uso 🚀</h1>
     
