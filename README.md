@@ -1,6 +1,6 @@
 <div align="center">
 
-## Seja, bem vindo! 🖐️
+    <h1 align="center">Seja, bem vindo! 🖐️</h1>
 
 [![linktr](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/guicarbonesi)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guicarbonesi/)
@@ -12,7 +12,7 @@
 <div  align="center"> 
   <div style="display: inline_block"><br>
     <img align="left" height="300" alt="coding-time" src="code.gif">
-## Tecnologias que uso 🚀
+    <h1 align="center">Tecnologias que uso 🚀</h1>
     
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -24,7 +24,7 @@
    </div>
 </div><br/>
 
-## Tecnologias Cloud ☁
+    <h1 align="center">Tecnologias Cloud ☁</h1>
 
 <div style="display: inline_block">
   <img align="center" alt="ts" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
