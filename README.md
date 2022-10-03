@@ -1,7 +1,7 @@
 <div align="center">
   <div style="display: inline_block"><br>
     <h1 align="center">Seja, bem vindo! 🖐️</h1>  
-
+ 
 [![linktr](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/guicarbonesi)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guicarbonesi/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](gui.carbonesi@gmail.com)
